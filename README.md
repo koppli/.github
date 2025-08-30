@@ -1,3 +1,3 @@
-# Plockat
+# koppli profile repo
 
-Koppla upp din butik med Plockat produkter. Läs mer på www.plockat.com
+Read more at koppli.com
