@@ -1,23 +1,7 @@
-                                                                                 
+<img src="profile/logo-splash-white.svg" alt="koppli logo" width="200"/>                                                                
                                                                                                     
-                 .+***=.                                                                            
-                =%%%%%%#.                                                                           
-                %%%%%%%%=           +**                                     -**:.+*=                
-                =%%%%%%%:  :**+-    *%#                                     =%%:.#%*                
-                 .+%%%=.  :%%%%%.   *%# .***..=#%%#+:  ****#%#+. .****%%#=. =%%: =+-                
-                   +%.    .%%%%+.   *%#:%%*..%%#++#%%: #%%+--#%%.:%%%=-=%%* =%%: %%*                
-                  :%%= .=*#-.:.     *%%%%*  -%%:   %%+ #%#   -%%-:%%+   +%%.=%%: %%*                
-                 .%%%%=.%%=         *%#:%%*..%%#++#%%: #%%*-=#%%.:%%%+-+%%* =%%: %%*                
-                 .+%%*%+--+**+-.    +** .***..=#%%#+:  #%##%%#+. :%%#%%%*=. -##: **=                
-                    -=:*%%%%%%%#.                      #%*       :%%=                               
-                   .#%=.%%%%%%%%-                      **+       .**-                               
-                        =%%%%%%*.                                                                   
-                         :+**+-.                                                                    
-                                                                                                    
-                                                                                                    
-# koppli.com
-
-> **From store to warehouse to production — koppli keeps you connected.** 
+> **From store to warehouse to production — koppli keeps you connected.**
+> Visit [koppli.com](https://koppli.com) for more info.
 
 ## Overview
 
