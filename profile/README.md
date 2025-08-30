@@ -17,14 +17,13 @@
                                                                                                     
 # koppli.com
 
-> **From store to warehouse to production — Koppli keeps you connected.**  
-> Fast tasks. Smart inventory. One Koppli.
+> **From store to warehouse to production — koppli keeps you connected.** 
 
 ## Overview
 
-With **Koppli’s digital shelf-edge signs** and apps, you always know how your shelves are doing—whether in **stores**, **warehouses**, or **production**. Empower your staff on the floor while **saving time and money** with Koppli’s digital solutions.
+With **koppli’s digital ESL screens** and apps, you always know how your shelves are doing—whether in **retail**, **warehouses**, or **production**. Empower your staff on the floor while **saving time and money** with koppli’s digital solutions.
 
-## What Koppli Delivers
+## What koppli Delivers
 
 - **Live status & insights** — Real-time view of what needs attention across your operation.
 - **Actionable notifications** — Get alerts when something requires action, so you can avoid costly downtime.
@@ -41,6 +40,6 @@ With **Koppli’s digital shelf-edge signs** and apps, you always know how your 
 
 ## How It Works
 
-- **Digital Signs (Shelf-Edge)** — Show live product info, task prompts, and last inventory timestamp at the point of work.
+- **Digital Screens (ESL)** — Show live product info, task prompts, and last inventory timestamp at the point of work.
 - **Mobile & Web Apps** — Create tasks, run spot counts, and track actions—right from the floor.
 - **Notifications** — Get notified when replenishment is needed or when an exception occurs.
