@@ -1,4 +1,4 @@
-<img src="profile/logo-splash-white.svg" alt="koppli logo" width="200"/>                                                                
+<img src="logo-splash-white.svg" alt="koppli logo" width="200"/>                                                                
                                                                                                     
 > **From store to warehouse to production — koppli keeps you connected.**
 > Visit [koppli.com](https://koppli.com) for more info.
